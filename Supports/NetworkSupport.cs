@@ -5,15 +5,22 @@ namespace LightCream
 {
     public class NetworkCream
     {
+        ///<summary>
+        ///Version comparator, pas1 (version of your application), pas 2 (version to update) 
+        ///</summary>
         public static bool UpdateCompare(string pas1, string pas2)
         {
             using (WebClient client = new WebClient())
             {
                 string compare2 = client.DownloadString(pas2);
-
                 return pas1 != compare2;
             }
         }
+
+
+        ///<summary>
+        ///File downloader, pastebinUrls (link of pastebin raw that contains links of files to download) 
+        ///</summary>
         public static void DownloadFiles(string pastebinUrls)
         {
             using (WebClient client = new WebClient())
