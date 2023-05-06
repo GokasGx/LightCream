@@ -34,9 +34,9 @@ namespace LightCream
                 }
                 foreach (string url in urls)
                 {
-                    Log.LogInfo($"Descargando archivo: [{url}]");
+                    Log.LogInfo($"Downloading file: [{url}]");
                     client.DownloadFile(url, Path.GetFileName(url));
-                    Log.LogInfo($"Archivo descargado: [{Path.GetFileName(url)}]");
+                    Log.LogInfo($"Downloaded file: [{Path.GetFileName(url)}]");
                 }
             }
         }
