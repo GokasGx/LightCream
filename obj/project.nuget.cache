@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "RAgB6zj4A5QKS9D0CoPpBrU5kpppEksIV1wKBC64ZxFHb1hpiYgsnZuRxgLkmEHdnR+uURATbXpstswopmcFHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Exploit-RDDC-main\\Light-Cream\\Light-Cream.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\discord.net\\3.10.0\\discord.net.3.10.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\discord.net.commands\\3.10.0\\discord.net.commands.3.10.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\discord.net.core\\3.10.0\\discord.net.core.3.10.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\discord.net.interactions\\3.10.0\\discord.net.interactions.3.10.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\discord.net.rest\\3.10.0\\discord.net.rest.3.10.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\discord.net.webhook\\3.10.0\\discord.net.webhook.3.10.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\discord.net.websocket\\3.10.0\\discord.net.websocket.3.10.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.interactive.async\\5.0.0\\system.interactive.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

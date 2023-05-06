@@ -1,0 +1,12 @@
+C:\Exploit-RDDC-main\Light-Cream\bin\Debug\net7.0\Light-Cream.deps.json
+C:\Exploit-RDDC-main\Light-Cream\bin\Debug\net7.0\Light-Cream.dll
+C:\Exploit-RDDC-main\Light-Cream\bin\Debug\net7.0\Light-Cream.pdb
+C:\Exploit-RDDC-main\Light-Cream\obj\Debug\net7.0\Light-Cream.csproj.AssemblyReference.cache
+C:\Exploit-RDDC-main\Light-Cream\obj\Debug\net7.0\Light-Cream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exploit-RDDC-main\Light-Cream\obj\Debug\net7.0\Light-Cream.AssemblyInfoInputs.cache
+C:\Exploit-RDDC-main\Light-Cream\obj\Debug\net7.0\Light-Cream.AssemblyInfo.cs
+C:\Exploit-RDDC-main\Light-Cream\obj\Debug\net7.0\Light-Cream.csproj.CoreCompileInputs.cache
+C:\Exploit-RDDC-main\Light-Cream\obj\Debug\net7.0\Light-Cream.dll
+C:\Exploit-RDDC-main\Light-Cream\obj\Debug\net7.0\refint\Light-Cream.dll
+C:\Exploit-RDDC-main\Light-Cream\obj\Debug\net7.0\Light-Cream.pdb
+C:\Exploit-RDDC-main\Light-Cream\obj\Debug\net7.0\ref\Light-Cream.dll
