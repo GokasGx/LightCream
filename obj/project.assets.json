@@ -565,11 +565,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Exploit-RDDC-main\\Light-Cream\\Light-Cream.csproj",
+      "projectUniqueName": "C:\\Exploit-RDDC-main\\Light-Cream\\LightCream\\Light-Cream.csproj",
       "projectName": "Light-Cream",
-      "projectPath": "C:\\Exploit-RDDC-main\\Light-Cream\\Light-Cream.csproj",
+      "projectPath": "C:\\Exploit-RDDC-main\\Light-Cream\\LightCream\\Light-Cream.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Exploit-RDDC-main\\Light-Cream\\obj\\",
+      "outputPath": "C:\\Exploit-RDDC-main\\Light-Cream\\LightCream\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
