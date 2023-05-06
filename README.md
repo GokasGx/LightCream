@@ -4,8 +4,8 @@
 
 # Features
 
--NetworkSupport
+**NetworkSupport**
 [🌐] Download files
 
--DiscordSupport
+**DiscordSupport**
 [📨] Webhooks
