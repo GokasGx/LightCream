@@ -16,3 +16,7 @@
 
 [📨] Webhooks
 
+**Tools**
+
+[🔐] EncryptCesar
+
