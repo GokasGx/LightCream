@@ -18,5 +18,5 @@
 
 **Tools**
 
-[🔐] EncryptCesar
+[🔐] EncryptCesar (Anti detention of tokens, or things like that.)
 
