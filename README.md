@@ -6,7 +6,7 @@
 
 **NetworkSupport**
 
-[🌐] Download files
+[🌐] Download files (good alternative to download multiple files with just using a pastebin, you could replace pastebin with a simple notepad, but you can customize the api code to your liking)
 
 [✅] Update Compare (Update system for your application)
 
